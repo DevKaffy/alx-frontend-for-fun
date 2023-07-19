@@ -19,7 +19,7 @@ color: white;
 }
 
 .box1 {
-background-color: turquoise;
+background-color: #22cd6c;
 }
 
 .box5 {
@@ -34,17 +34,17 @@ color: white;
 }
 
 .box2 {
-background-color: dodgerblue;
+background-color: #2e98e0;
 }
 
 .box4 {
-background-color: violet;
+background-color: #9d56b9;
 }
 
 .box3 {
 width: 11rem;
 height: 7rem;
 font-size: 4rem;
-background-color: rebeccapurple;
+background-color: #344b61;
 color: white;
 }
